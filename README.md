@@ -3,3 +3,8 @@ git add [files] // добавляет файлы в стейдж (подгото
 git commit -m 'comment' (добавить коммент)
 git log / git log --oneline (показывает полную инфу о наших коммитах, а второй краткую)
 git push [rep.link] [branch_name]
+
+master
+develop
+feature/ main-page
+feature/about-company
